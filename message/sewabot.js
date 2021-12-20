@@ -3,15 +3,10 @@ exports.dada = (prefix, settings, pushname, ucapanWaktu) => {
 return `${ucapanWaktu} kak ${pushname}
 Berikut adalah list harga untuk sewa botz
 
-*╭─▸*「 𝗟𝗜𝗦𝗧 𝗦𝗘𝗪𝗔 」
-*┴*
-*│▸* 1 hari = free
-*│▸* 2 hari = Rp.500         
-*│▸* 7 hari = Rp.1000          
-*│▸* 14 hari = Rp.1500         
-*│▸* 30 hari = Rp.2000       
-*│▸* 40 hari = Rp.2500                
-*│▸* Permanent = Rp.3000                    
+*╭─▸*「 𝗟𝗜𝗦𝗧 𝗦𝗘𝗪𝗔 」        
+*│▸* 3 hari = RP.5.000    
+*│▸* 7 hari =  RP.8.000              
+*│▸* Permanent = RP.12.000 + Premium                 
 *┬*
 *╰────────────[*
 
